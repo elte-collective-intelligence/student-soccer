@@ -1,4 +1,4 @@
-# Pathfinding: Multi-Agent Reinforcement Learning (TorchRL)
+# Soccer (OLD Pathfinding): Multi-Agent Reinforcement Learning (TorchRL)
 
 [![CI](https://github.com/elte-collective-intelligence/student-pathfinding/actions/workflows/ci.yml/badge.svg)](https://github.com/elte-collective-intelligence/student-pathfinding/actions/workflows/ci.yml)
 [![Docker](https://github.com/elte-collective-intelligence/student-pathfinding/actions/workflows/docker.yml/badge.svg)](https://github.com/elte-collective-intelligence/student-pathfinding/actions/workflows/docker.yml)
